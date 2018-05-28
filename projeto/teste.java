@@ -1,5 +1,6 @@
 package projeto;
 
-public class teste {
-
+public class void main 
+	
+// asjfdfmdjfnm
 }
